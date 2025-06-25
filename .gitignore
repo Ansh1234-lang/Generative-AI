@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+# ignore virtual environment
+venv
+
+__pychache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+.vscode/
+

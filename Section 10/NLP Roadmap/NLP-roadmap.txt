@@ -1,0 +1,36 @@
+NLP Roadmap : 
+    know a programming language :- python
+
+    
+    machune learning  :
+
+
+        step 1 : cleaning the input
+            text preprocessing : tokenization , limitization, stemming, stopwords
+
+        step 2 : Input text -> vectors
+            text preprocessing part 2 : bag of woods , tfidf unigrams , bigrams
+
+        step 3 : input text -> vectors
+            text preprocessing part 3: word to vec, avg word to vec
+
+
+
+    deep learning :
+
+
+        step 4 : neural network  :> deep learning
+            RNN, GRU RNN, LSTM RNN
+
+        step 5 : 
+            text preprocessing -> word embedding
+
+        step 6 :
+            transformer
+
+        step 7 :
+            BERT
+
+
+libraries: Tensorflow, pytorch
+
