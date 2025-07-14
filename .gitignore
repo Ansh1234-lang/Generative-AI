@@ -11,4 +11,4 @@ __pychache__/
 
 .vscode/
 
-.h5
+*.h5
