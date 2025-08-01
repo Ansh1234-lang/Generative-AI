@@ -12,3 +12,5 @@ __pychache__/
 .vscode/
 
 *.h5
+
+*.pickle
