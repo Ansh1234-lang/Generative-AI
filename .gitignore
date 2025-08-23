@@ -16,3 +16,7 @@ __pychache__/
 *.pickle
 
 *.zip
+
+*.json
+
+*.bin
