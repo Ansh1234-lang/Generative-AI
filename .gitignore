@@ -20,3 +20,5 @@ __pychache__/
 *.json
 
 *.bin
+
+*.sqlite3
