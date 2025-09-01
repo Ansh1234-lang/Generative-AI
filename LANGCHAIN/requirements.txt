@@ -1,7 +1,7 @@
 langchain
 ipykernel
 python-dotenv
-langchain_community
+langchain-community
 pypdf
 beautifulsoup4
 arxiv
@@ -10,3 +10,7 @@ wikipedia
 langchain-text-splitters
 langchain-openai
 chromadb
+dotenv
+sentence_transformers
+langchain_huggingface
+hf_xet
