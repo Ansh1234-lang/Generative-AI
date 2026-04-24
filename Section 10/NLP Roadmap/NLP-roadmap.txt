@@ -26,6 +26,8 @@ NLP Roadmap :
             text preprocessing -> word embedding
 
         step 6 :
+       
+       
             transformer
 
         step 7 :
