@@ -7,3 +7,11 @@ flask
 memory_profiler
 streamlit
 scikit-learn
+gensim
+nltk
+opencv-python
+pillow
+openpyxl
+PyPDF2
+scipy
+torch   
